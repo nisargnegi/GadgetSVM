@@ -1,0 +1,3 @@
+node,iter,obj_value,loss_value,wt_norm,obj_value_difference,converged,num_converge_iters,accuracy,zero_one_error,train_time,read_init_time
+1,0,2250001.0,1.0,4.5E10,2250001.0,0,0,1.0,0.0,0.030128409,1.429E-6
+1,1,0.12500000000000122,0.0,2500.0000000000246,2250000.875,0,0,1.0,0.0,0.013265372,1.429E-6
