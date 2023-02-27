@@ -8,22 +8,22 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="djep-1.0.0.jar"/>
 	<classpathentry kind="lib" path="jep-2.3.0.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/arpack_combined.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/bounce.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/commons-compress-1.21.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/core.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/flatlaf-2.0.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/hamcrest-core-1.3.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/istack-commons-runtime-3.0.12.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/jakarta.activation-api-1.2.2.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/jakarta.xml.bind-api-2.3.3.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/java-cup-11b.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/java-cup-11b-runtime.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/jaxb-runtime-2.3.5.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/jclipboardhelper-0.1.2.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/jfilechooser-bookmarks-0.1.6.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/jflex-full-1.8.2.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/junit-4.13.2.jar"/>
-	<classpathentry kind="lib" path="/home/vboxuser/Desktop/project/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka-src/lib/mtj.jar"/>
+	<classpathentry kind="lib" path="lib/arpack_combined.jar"/>
+	<classpathentry kind="lib" path="lib/bounce.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/flatlaf-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/istack-commons-runtime-3.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/java-cup-11b.jar"/>
+	<classpathentry kind="lib" path="lib/java-cup-11b-runtime.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-runtime-2.3.5.jar"/>
+	<classpathentry kind="lib" path="lib/jclipboardhelper-0.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jfilechooser-bookmarks-0.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jflex-full-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="lib/mtj.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
