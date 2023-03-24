@@ -144,7 +144,7 @@ public static Graph wireKOut( Graph g, int k, Random r ) {
 	}
 	///Code to print the graph network
 	try {
-		System.out.print("\n nisarg GraphFactory:"+ g.toString()+ "\n");
+		System.out.print("\n GraphFactory:"+ g.toString()+ "\n");
 		peersim.graph.GraphIO.writeDOT(
 		g,System.err);
 	} catch (Exception e1) {
