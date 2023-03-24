@@ -19,7 +19,7 @@
 package peersim.graph;
 
 import java.util.*;
-
+import java.io.*;
 /**
 * Contains static methods for wiring certain kinds of graphs. The general
 * contract of all methods is that they accept any graph and add edges
@@ -142,6 +142,30 @@ public static Graph wireKOut( Graph g, int k, Random r ) {
 			}
 		}
 	}
+	///Code to print the graph network
+	try {
+		System.out.print("\n nisarg GraphFactory:"+ g.toString()+ "\n");
+		peersim.graph.GraphIO.writeDOT(
+		g,System.err);
+	} catch (Exception e1) {
+		// TODO Auto-generated catch block
+		e1.printStackTrace();
+	}
+		
+		
+    try {//saving network digraph to file 
+    	 //Can use graphviz to print it, linux commands below:
+    	 //sudo apt install graphviz
+    	 //dot -Tpng network_digraph_output.txt -o graph.png
+    	FileOutputStream fos = new FileOutputStream("network_digraph_output.txt");
+        PrintStream ps = new PrintStream(fos);
+        peersim.graph.GraphIO.writeDOT(g,ps);
+			fos.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	
 	return g;
 }
 
